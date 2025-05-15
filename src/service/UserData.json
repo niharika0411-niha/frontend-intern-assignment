@@ -1,0 +1,79 @@
+[
+  {
+    "name": "John Steven Doe",
+    "email": "johnstevendoe@example.com",
+    "dept": "Design",
+    "title": "UI UX Designer",
+    "role": "UI UX Designer",
+    "startDate": "28/04/2022",
+    "category": "Full time",
+    "gender": "Male",
+    "status": "Active"
+  },
+  {
+    "name": "Barry Jhayson",
+    "email": "barryjhayson@example.com",
+    "dept": "IT",
+    "title": "Backend Engineer",
+    "role": "Backend Engineer",
+    "startDate": "28/04/2022",
+    "category": "Remote",
+    "gender": "Male",
+    "status": "Inactive"
+  },
+  {
+    "name": "Tiwa Cavage",
+    "email": "tiwacavage@example.com",
+    "dept": "Design",
+    "title": "UI UX Designer",
+    "role": "UI UX Designer",
+    "startDate": "28/04/2022",
+    "category": "Full time",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "name": "James IDK",
+    "email": "jamesidk@example.com",
+    "dept": "Design",
+    "title": "UI UX Designer",
+    "role": "UI UX Designer",
+    "startDate": "28/04/2022",
+    "category": "Full time",
+    "gender": "Male",
+    "status": "Inactive"
+  },
+  {
+    "name": "Vanessa Chidi",
+    "email": "vanessachidi@example.com",
+    "dept": "Design",
+    "title": "UI UX Designer",
+    "role": "UI UX Designer",
+    "startDate": "28/04/2022",
+    "category": "Full time",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "name": "Don Gorgon",
+    "email": "dongorgon@example.com",
+    "dept": "Design",
+    "title": "UI UX Designer",
+    "role": "UI UX Designer",
+    "startDate": "28/04/2022",
+    "category": "Full time",
+    "gender": "Male",
+    "status": "Inactive"
+  },
+  {
+    "name": "Sarah Wilson",
+    "email": "sarahwilson@example.com",
+    "dept": "Design",
+    "title": "UI UX Designer",
+    "role": "UI UX Designer",
+    "startDate": "28/04/2022",
+    "category": "Full time",
+    "gender": "Female",
+    "status": "Active"
+  }
+]
