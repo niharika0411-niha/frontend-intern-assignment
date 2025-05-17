@@ -40,7 +40,7 @@ Instead of a backend, the user and job data are stored locally as JSON files or 
 Popup Modal:
 Implemented for user profile details on the User List page, enhancing user experience by showing information overlays instead of navigation.
 
-4. Features and UX Details
+3. Features and UX Details
 Login Page:
 Styled input fields with validation
 Banner with branding or relevant image
