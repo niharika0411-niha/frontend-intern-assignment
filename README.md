@@ -9,7 +9,7 @@ Install dependencies : npm install
 ## start the server
 Start the development server : npm run dev
 
-1. Project Overview
+## Project Overview
 The application consists of three main pages:
 
 Login Page:
@@ -21,7 +21,7 @@ This page serves as the admin's control panel. It features informational cards s
 User List Page:
 Displays a list of users with advanced UI features such as filters to search or sort users, dropdown menus for actions or category selections, and popup modals to view detailed user profiles without leaving the page.
 
-2. Technologies & Tools
+## Technologies & Tools
 React + Vite:
 Vite is used as the build tool and development server for its blazing-fast hot reload and optimized builds. React is the core library for building the UI components with a modular and component-based architecture.
 
@@ -40,7 +40,7 @@ Instead of a backend, the user and job data are stored locally as JSON files or 
 Popup Modal:
 Implemented for user profile details on the User List page, enhancing user experience by showing information overlays instead of navigation.
 
-3. Features and UX Details
+## Features and UX Details
 Login Page:
 Styled input fields with validation
 Banner with branding or relevant image
@@ -57,5 +57,5 @@ Filters for role, status, or other attributes
 Dropdown actions for each user (edit, delete, view)
 Modal popup to show user profile details without page reload
 
-Summary
+## Summary
 This approach balances clean architecture, usability, and maintainability while adhering to the assignment requirements. The modular structure and modern React patterns ensure the app can be extended or integrated with backend services in the future.
